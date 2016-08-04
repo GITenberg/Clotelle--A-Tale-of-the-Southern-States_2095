@@ -1,0 +1,32 @@
+_repo: Clotelle--A-Tale-of-the-Southern-States_2095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, William Wells
+    aliases:
+    - Brown, W. Wells (William Wells)
+    - Brown, Wm. Wells (William Wells)
+    deathdate: 1884
+    gutenberg_agent_id: '135'
+    url: http://www.gutenberg.org/2009/agents/135
+    wikipedia: http://en.wikipedia.org/wiki/William_Wells_Brown
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2000-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African American families -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'African American women -- Fiction'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Women slaves -- Fiction'
+- GITenberg
+title: 'Clotelle: A Tale of the Southern States'
+url: http://www.gutenberg.org/ebooks/2095
